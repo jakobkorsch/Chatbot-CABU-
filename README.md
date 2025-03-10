@@ -39,7 +39,7 @@ This chatbot is designed to process Arabic text and respond to queries. It uses 
 ## Usage
 1. Start the main program:
     ```sh
-    python main.py
+    Chatbot(CABU).py
     ```
 
 2. Choose the input method (text or speech) and start interacting with the chatbot.
