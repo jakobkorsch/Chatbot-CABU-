@@ -45,7 +45,7 @@ This chatbot is designed to process Arabic text and respond to queries. It uses 
 2. Choose the input method (text or speech) and start interacting with the chatbot.
 
 ## Project Structure
-- `main.py`: Main program to start the chatbot.
+- `Chatbot(CABU).py`: Main program to start the chatbot.
 - `arabic_intents.json`: JSON file containing intents and their patterns.
 - `chatbot_model.keras`: Saved RNN model.
 - `words.pkl` & `classes.pkl`: Saved words and classes for processing.
