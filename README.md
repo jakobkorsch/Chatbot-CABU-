@@ -20,7 +20,7 @@ This chatbot is designed to process Arabic text and respond to queries. It uses 
 1. Clone the repository:
     ```sh
     git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    https://github.com/jakobkorsch/Chatbot-CABU-.git
     ```
 2. Install the required packages:
     ```sh
