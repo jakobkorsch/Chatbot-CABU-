@@ -1,0 +1,7 @@
+numpy
+tensorflow
+nltk
+speechrecognition
+pyttsx3
+openai
+farasa
